@@ -10,3 +10,7 @@ Windows/Mac desktop client. I decided I wanted to be able to read the books on m
 I decided to take this as a learning opportunity to practice some reverse engineering.
 
 I also do not endorse any illegal use of this software etc. etc. This is strictly for learning etc. etc.
+
+## Dependencies
+
+The project is dependent on the PdfSharp and iTextSharp library
